@@ -4,3 +4,6 @@
 
 #dist
 .dist
+
+#virtual env
+.venv
